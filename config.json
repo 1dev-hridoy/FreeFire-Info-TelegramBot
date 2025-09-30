@@ -1,0 +1,11 @@
+{
+    "ownerName": "1dev-hridoy",
+    "ownerUid": 123456789,
+    "botToken": "YOUR_BOT_TOKEN",
+    "baseUrl": "https://hridoy-ff-1.onrender.com/api",
+    "botPrefix": "/",
+    "allowedGroupId": -1002528061649,
+    "allowedGroupLink": "https://t.me/nexalo",
+    "verificationChannelUsername": "@bdnoobradeveloper",
+    "verificationChannelLink": "https://t.me/bdnoobradeveloper"
+}

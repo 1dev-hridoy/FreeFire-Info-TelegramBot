@@ -1,0 +1,6 @@
+node_modules/
+trash/
+commands/like.js
+commands/red.js
+commands/blue.js
+.env
